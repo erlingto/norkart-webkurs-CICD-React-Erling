@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/norkart-webkurs-CICD-React/static/css/main.b326aaf9.css",
-    "main.js": "/norkart-webkurs-CICD-React/static/js/main.8c712742.js",
-    "static/js/mapbox-gl-csp-worker.009bbfe0.worker.js": "/norkart-webkurs-CICD-React/static/js/mapbox-gl-csp-worker.009bbfe0.worker.js",
-    "index.html": "/norkart-webkurs-CICD-React/index.html",
-    "main.b326aaf9.css.map": "/norkart-webkurs-CICD-React/static/css/main.b326aaf9.css.map",
-    "main.8c712742.js.map": "/norkart-webkurs-CICD-React/static/js/main.8c712742.js.map"
+    "main.css": "/norkart-webkurs-CICD-React-Erling/static/css/main.b326aaf9.css",
+    "main.js": "/norkart-webkurs-CICD-React-Erling/static/js/main.64ac2e76.js",
+    "static/js/mapbox-gl-csp-worker.1cb1dda2.worker.js": "/norkart-webkurs-CICD-React-Erling/static/js/mapbox-gl-csp-worker.1cb1dda2.worker.js",
+    "index.html": "/norkart-webkurs-CICD-React-Erling/index.html",
+    "main.b326aaf9.css.map": "/norkart-webkurs-CICD-React-Erling/static/css/main.b326aaf9.css.map",
+    "main.64ac2e76.js.map": "/norkart-webkurs-CICD-React-Erling/static/js/main.64ac2e76.js.map"
   },
   "entrypoints": [
     "static/css/main.b326aaf9.css",
-    "static/js/main.8c712742.js"
+    "static/js/main.64ac2e76.js"
   ]
 }
